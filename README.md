@@ -6,5 +6,3 @@
 ## HackerRank
 [HackerRank Profile](https://www.hackerrank.com/profile/rohit_12205208)
 
-## GitHub Repository
-[Github Repository](https://github.com/your-github-username)
